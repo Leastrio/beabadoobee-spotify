@@ -1,6 +1,3 @@
-# beabadoobee-theme
-A beabadoobee theme for spicetify (fork of https://github.com/Motschen/Retroblur)
-
 # How to install
 
 1. Install [Spicetify](https://spicetify.app/docs/getting-started)
